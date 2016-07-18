@@ -1,0 +1,3 @@
+<script lang="javascript"&gt;
+alert("You've been hacked!");
+</script>
